@@ -1,18 +1,16 @@
 # Google Ads Keyword Analysis
 This is a real world client project for a tax business performed during COOP, a data analytics apprenticeship program.
 
-#### Project Status: In Progress
-
 ## Project Intro/Objective
-The purpose of this project is to perform data analysis on Google Ads Keywords datasets. The goal is to design Ad Groups with keywords for a tax business (name redacted) to help **Acquire New Clients** and **Increase Brand Awareness.**
+The purpose of this project is to perform data analysis on Google Ads Keywords datasets. The goal is to design Ad Groups with keywords for a tax business (Tax Focused Collab) to help **Acquire New Clients** and **Increase Brand Awareness.**
 
 ### Key Stakeholder
-* CEO of tax business
-* Website
+* CEO of Tax Focused Collab[
+* Website: https://www.taxfocusedcollab.com
 
 ### Methods Used
 * Descriptive Statistics
-    * Central Tendency: Median, Skewness.
+    * Central Tendency: Median, Mean and Skewness.
 * Data Wrangling
 * Data Imputation (Handling NAN values)
 * Data Analysis
@@ -24,17 +22,17 @@ The purpose of this project is to perform data analysis on Google Ads Keywords d
 * Pandas
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* Google Colab
 
 ## Project Description
 **Problem**: Spending Ad Dollars on previous Google Ad Campagins without data analysis and research.
 
 **Process**: Analyze and filter keywords from datasets obtained from Google Ads Keyword Planner. 
 * Analyze keywords from Competitor website.
-  * Data Source: List of keywords with their respective data from Google Ad Keyword Planner by using H&R Block website.
+  * Data Source: List of keywords with their respective data points from Google Ad Keyword Planner by using H&R Block website.
    * Filters Added: Date Range= Jan-Apr (Tax season), Reach= New York 40 Million, Language= English only and Search Engine= Google only
-* Narrow down keywords with specific Avg Monthly Searches, Competition Level and Top Page Bid Dollars.
-  
+* Narrow down keywords with specific Avg Monthly Searches, Competition Level and Top of Page Bid Dollars.
+
 **Solution**: Design Google Ad Campaigns with Ad Groups that are targeting 2 specific goals:
   * Goal 1: Increase Brand Awareness
     - Bring people to homepage
