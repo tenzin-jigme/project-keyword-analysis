@@ -5,7 +5,7 @@ This is a real world client project for a tax business performed during COOP, a 
 The purpose of this project is to perform data analysis on Google Ads Keywords datasets. The goal is to design Ad Groups with keywords for a tax business (Tax Focused Collab) to help **Acquire New Clients** and **Increase Brand Awareness.**
 
 ### Key Stakeholder
-* CEO of Tax Focused Collab[
+* CEO of Tax Focused Collab
 * Website: https://www.taxfocusedcollab.com
 
 ### Methods Used
